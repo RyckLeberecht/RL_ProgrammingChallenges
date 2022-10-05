@@ -1,2 +1,2 @@
-# RL_ProgrammingChallenges
+# RLeberecht_ProgrammingChallenges
 Programming Challenges for Bioinformatics - UPM Master Course
